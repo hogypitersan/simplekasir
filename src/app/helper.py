@@ -20,6 +20,3 @@ def addSpace(value):
 def currencyFormat(value):
     locale.setlocale(locale.LC_ALL, 'en_us')
     return locale.currency(int(value), grouping=True).replace("$", "Rp")
-
-if __name__ == '__main__':
-    clear()
