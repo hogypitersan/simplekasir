@@ -1,0 +1,1 @@
+Americano (tall),50000;Americano (venti),60000;Caramel Machiato (tall),65000;Caramel Machiato (vanti),75000;Chocolate,55000;Red velvet (tall),60000;Brown Sugar (venti),45000;Brows Sugar (tall),35000;Americano (grande),55000;Americano (grande),55000;Brown Sugar (grande),40000;
